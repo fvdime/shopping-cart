@@ -9,13 +9,13 @@ Shopping cart project with React.js, Vite, Typescript and Bootstrap
 How it looks?
 
     ```md
-    ![alt text](/public/images/storePage.png)
+    !(/public/images/storePage.png)
     ```
     ```md
-    ![alt text](/public/images/storePage2.png)
+    !(/public/images/storePage2.png)
     ```
     ```md
-    ![alt text](/public/images/shoppingCart.png)
+    !(/public/images/shoppingCart.png)
     ```
 
 ## Credits
