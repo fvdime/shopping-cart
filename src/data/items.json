@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "それは駄目よ",
+      "price": 10.99,
+      "imgUrl": "/images/pic-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "何も欲しいくない",
+      "price": 21.99,
+      "imgUrl": "/images/pic-3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "将来不安感じる",
+      "price": 40.00,
+      "imgUrl": "/images/pic-4.png"
+    },
+    {
+      "id": 4,
+      "name": "どうしょう",
+      "price": 20,
+      "imgUrl": "/images/pic.png"
+    }
+  ]
