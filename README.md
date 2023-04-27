@@ -9,7 +9,7 @@ Shopping cart project with React.js, Vite, Typescript and Bootstrap
 How it looks?
 
     <p align="center">
-      <img src="./public/images/storePage.png" width="350">
+      <img src="/public/images/storePage.png" width="350">
     </p>
 
 ## Credits
